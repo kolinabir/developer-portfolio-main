@@ -1,7 +1,7 @@
 export const projectsData = [
   {
     "id": 1,
-    "name": "E COM FAKEEEEE",
+    "name": "E-commerce Website",
     "description": "A full-stack e-commerce website built with React, Node.js, and MongoDB.",
     "tools": [
       "React",
