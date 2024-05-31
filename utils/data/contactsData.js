@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'john.doe@example.com',
-    phone: '+1 123-456-7890',
-    address: '123 Main St, Anytown USA',
-    github: 'https://github.com/johndoe',
-    facebook: 'https://www.facebook.com/johndoe',
-    linkedIn: 'https://www.linkedin.com/in/johndoe', // Note the change from 'linkedin' to 'linkedIn'
-    twitter: 'https://twitter.com/johndoe',
-    stackOverflow: 'https://stackoverflow.com/users/1234567/johndoe',
-    devUsername: 'johndoe'
-  }
+    email: 'xxxr@gmail.com',
+    phone: '+8801608797655',
+    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
+    github: 'https://github.com/said7388',
+    facebook: 'https://www.facebook.com/abusaid.riyaz/',
+    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+    twitter: 'https://twitter.com/said7388',
+    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+    devUsername: "said7388"
+}
