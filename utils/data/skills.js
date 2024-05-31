@@ -1,4 +1,3 @@
 export const skillsData = [
-  "React",
-  "WolframAlpha"
+  "React"
 ];
