@@ -1,4 +1,4 @@
 export const skillsData = [
   "React",
-  "Fastify"
+  "WolframAlpha"
 ];
