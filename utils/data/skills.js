@@ -1,3 +1,9 @@
 export const skillsData = [
-  "Vue"
+  "Vue",
+  "Angular",
+  "Node JS",
+  "Docker",
+  "CSS",
+  "HTML",
+  "JS"
 ];
